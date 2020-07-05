@@ -3,4 +3,4 @@ This is a project to build a model which can accurately identifies whether a per
 I have done some feature engineering and data visualisation to make a better sense of the data and for making a better input for the model.
 
 # Conclusion
-Logistic Regression gives the best outcome with an accuracy of 84% in predicting the outcome.
+Logistic Regression gives the best outcome with an accuracy of nearly 84% in predicting the outcome.
