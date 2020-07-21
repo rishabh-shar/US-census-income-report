@@ -11,5 +11,5 @@ The objective of the project was simple, we have to make a model which can predi
 I also had to make sure my kernel was easy to understand so I added lots of graphs in it.
 
 # Conclusion
-Logistic Regression gives the best outcome with an accuracy of nearly 84% in predicting the outcome.
+Logistic Regression gives the best outcome with an accuracy of nearly 84% in predicting the outcome of the problem statement.
 
